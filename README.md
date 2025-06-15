@@ -2,12 +2,6 @@
 ### Hi there 👋, My name is Shahed Ahmed Sium
 #### A passionate Cyber Security student from Bangladesh
 
-اللّٰهُ أَكْبَرُ🖤
-لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُل اللّهِ🌺
-God is the greatest. There is no god but God, and Muhammad is the Messenger of God.
-
-Skills: PYTHON / JAVA / JS / HTML / CSS / MS OFFICE / CANVA
-
 - 🔭 I’m currently working on Woman Safety App 
 - 🌱 I’m currently learning Cyber Security 
 - 👯 I’m looking to collaborate on Github 
